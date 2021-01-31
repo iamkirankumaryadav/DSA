@@ -35,6 +35,10 @@ Insert | Delete (Beginning) : O(1) (Add New Element and Shift other Elements to 
 
 Insert | Delete (Ending) : O(n) (Add New Element and Shift other Elements to New Memory Address)
 
+Linked List Traversal = O(n)
+
+Accessing Element By Value = O(n)
+
 <h5>2 Iterations : O(n<sup>2</sup>)</h5>
 
 Big Iteration : O(log n) (Binary Search | Unordered Array)
