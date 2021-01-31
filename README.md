@@ -19,6 +19,8 @@ Python Data Structure
 
 Measure How Running Time or Space Reguirements for Program Grows as Input Size Grows.
 
+time = a * n + b  (a and b are Constants | n is Iteration)
+
 Rules :
 - Keep Fastest Growing Terms
 - Drop Constants
