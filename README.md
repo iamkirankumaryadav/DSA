@@ -18,3 +18,11 @@ Python Data Structure
 ## Big O Notation
 
 Measure How Running Time or Space Reguirements for Program Grows as Input Size Grows.
+
+Rules :
+- Keep Fastest Growing Terms
+- Drop Constants
+
+Loops | Iterations : O(n)
+
+<h4>2 Iteration : O(n<sup>2</sup>)</h4>
