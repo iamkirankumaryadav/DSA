@@ -29,9 +29,11 @@ Constant : O(1)
 
 Search By Index : O(1)
 
-Loops | Iterations : O(n)
+Loops | Iterations : O(n) (Search an Element in a Sorted Array)
 
 <h5>2 Iteration : O(n<sup>2</sup>)</h5>
+
+Big Iteration : O(log n) (Binary Search | Unordered Array)
 
 
 
