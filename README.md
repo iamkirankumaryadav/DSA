@@ -35,7 +35,7 @@ Insert | Delete (Beginning) : O(1) (Add New Element and Shift other Elements to 
 
 Insert | Delete (Ending) : O(n) (Add New Element and Shift other Elements to New Memory Address)
 
-<h5>2 Iteration : O(n<sup>2</sup>)</h5>
+<h5>2 Iterations : O(n<sup>2</sup>)</h5>
 
 Big Iteration : O(log n) (Binary Search | Unordered Array)
 
