@@ -31,7 +31,9 @@ Search By Index | Lookup : O(1)
 
 Loops | Iterations : O(n) (Search an Element in a Sorted Array | Array Traversal)
 
-Insert | Delete : O(n) (Add New Element and Shift other Elements to New Memory Address)
+Insert | Delete (Beginning) : O(1) (Add New Element and Shift other Elements to New Memory Address)
+
+Insert | Delete (Ending) : O(n) (Add New Element and Shift other Elements to New Memory Address)
 
 <h5>2 Iteration : O(n<sup>2</sup>)</h5>
 
