@@ -23,6 +23,15 @@ Rules :
 - Keep Fastest Growing Terms
 - Drop Constants
 
+Constant : O(1)
+
+Search By Index : O(1)
+
 Loops | Iterations : O(n)
 
-<h4>2 Iteration : O(n<sup>2</sup>)</h4>
+<h5>2 Iteration : O(n<sup>2</sup>)</h5>
+
+
+
+
+
