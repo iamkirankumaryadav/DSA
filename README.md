@@ -10,7 +10,7 @@ Python Data Structure
 
 > Builtin Data Structures
 
-1. **List** (Ordered Collection | Mutable | Heterogeneous Data Type)
+1. **List** (Ordered Collection | Mutable | Heterogeneous Data Type | Dynamic Array) 
 2. **Tuple** (Ordered Collection | Immutable | Heterogeneous Data Type)
 3. **Set** (Unordered Collection | Mutable | Heterogeneous Data Type)
 4. **Dictionary** (Ordered Collection | Mutable | Heterogeneous Data Type)
@@ -25,11 +25,13 @@ Rules :
 - Keep Fastest Growing Terms
 - Drop Constants
 
-Constant : O(1)
+Constant : O(1) | Constant Time Operation
 
-Search By Index : O(1)
+Search By Index | Lookup : O(1)
 
-Loops | Iterations : O(n) (Search an Element in a Sorted Array)
+Loops | Iterations : O(n) (Search an Element in a Sorted Array | Array Traversal)
+
+Insert | Delete : O(n) (Add New Element and Shift other Elements to New Memory Address)
 
 <h5>2 Iteration : O(n<sup>2</sup>)</h5>
 
