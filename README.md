@@ -45,7 +45,7 @@ Accessing Element By Value = O(n)
 
 Big Iteration : O(log n) (Binary Search | Unordered Array)
 
-Splitting | Dividing | Merge : O(n.log n)
+Splitting | Dividing | Merge : O(n log n) (Here n is for Merge)
 
 
 
