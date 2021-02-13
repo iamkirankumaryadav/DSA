@@ -1,4 +1,4 @@
-# DataStructure
+# Data Structure
 
 Data Structure is a Fundamental Concept around which we Build Our Programs
 
