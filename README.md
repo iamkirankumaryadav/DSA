@@ -1,10 +1,11 @@
-# Data Structure
+# Data Structure and Algorithms
 
-Data Structure is a Fundamental Concept around which we Build Our Programs
+- Data structure is a fundamental concept around which we build our programs.
+- Data structure provides a particular way of organizing data so it can be accessed efficiently, based on use case.
+- If data is well organized it helps in fast lookup.
 
-Data Structure Provides a particular way of Organizing Data so it can be Accessed Efficiently, based on Our Use Case.
-
-If Data is Well Organized it Helps in Fast Lookup.
+### Why `DSA` is important?
+1. 
 
 Python Data Structure
 
