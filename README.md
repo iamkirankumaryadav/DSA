@@ -6,7 +6,9 @@
 - It becomes essential to find the most efficient method among these approaches. 
 - A fundamental concept around which we build our programs.
 - You will be able to write code that is not only functional but also highly efficient and scalable.
+- Emphasize the necessity of optimizing our code, especially for tasks that involve large numbers of calculations.
 - The principles of DSA apply universally across all programming languages.
+- Understanding and applying optimization techniques can save a significant amount of computational time and resources. 
 
 ### **Data Structure**
 A way of storing data in an organized manner to be accessed efficiently.
@@ -25,6 +27,26 @@ A way of storing data in an organized manner to be accessed efficiently.
 - Built-in data structures are not enough for writing complex programs. Imagine working on a mapping service like Google Maps.
 - If we rely solely on built-in data structures to create a mapping service, our program won't be efficient.
 - In such cases, we employ logic to develop custom data structures such as graphs, trees, hash maps, etc.
+
+# **Algorithms**
+- An algorithm is a step-by-step process to solve a problem.
+- For example, here is an algorithm to check whether a given number is odd or even.
+
+```python
+# Instructions:
+Step 1: Input: A number n
+Step 2: If n is perfectly divisible by 2, Then print "The number is even" 
+Step 3: Else: Print "The number is odd"
+Step 4: End
+
+# Output:
+n = 5
+
+if n % 2 == 0:
+    print("The number is even")
+else:
+    print("The number is odd")
+```
 
 ### **Big O Notation**
 
